@@ -23,16 +23,7 @@ A beautiful Flutter application for a fictional flower shop called "Loto Store".
 - Flutter SDK installed
 - IDE (VS Code or Android Studio recommended)
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/jazjv04/loto-store.git
-   cd loto-store
-
-## 🚀Install dependencies
-flutter pub get
-flutter run
-
+## 📁 Project Structure
 lib/
 ├── main.dart          # Application entry point
 ├── screens/           # All application screens
@@ -41,15 +32,14 @@ lib/
 assets/                # Images and fonts
 pubspec.yaml           # Dependencies configuration
 
+### 💻 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jazjv04/loto-store.git
+   cd loto-store
 
-**How to use this README:**
-1. Copy the entire content above
-2. Paste it into your README.md file
-3. Replace the screenshot paths with your actual image paths
-4. Update any information as needed
-
-**Tips:**
-- Make sure your screenshots are in an `assets/screenshots/` folder
-- Keep the image dimensions similar for a consistent look
-- Update the Flutter/Dart versions if you're using different ones
+2. Install dependencies:
+ ```bash
+    flutter pub get
+    flutter run
 
