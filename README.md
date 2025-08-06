@@ -29,7 +29,7 @@ A beautiful Flutter application for a fictional flower shop called "Loto Store".
    git clone https://github.com/jazjv04/loto-store.git
    cd loto-store
 
-#Install dependencies
+## 🚀Install dependencies
 flutter pub get
 flutter run
 
@@ -52,3 +52,4 @@ pubspec.yaml           # Dependencies configuration
 - Make sure your screenshots are in an `assets/screenshots/` folder
 - Keep the image dimensions similar for a consistent look
 - Update the Flutter/Dart versions if you're using different ones
+
