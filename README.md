@@ -1,4 +1,4 @@
-# 🌸 Loto Store - Floral E-Commerce UI
+# 🌸 Loto Store - Flower Shop E-Commerce UI
 
 A beautiful Flutter application for a fictional flower shop called "Loto Store". This university project features a responsive UI with product listings, user profiles, and elegant floral arrangements.
 
@@ -24,13 +24,14 @@ A beautiful Flutter application for a fictional flower shop called "Loto Store".
 - IDE (VS Code or Android Studio recommended)
 
 ## 📁 Project Structure
-lib/
-├── main.dart          # Application entry point
-├── screens/           # All application screens
-├── widgets/           # Reusable UI components
-└── models/            # Data models
-assets/                # Images and fonts
-pubspec.yaml           # Dependencies configuration
+loto-store/
+├── lib/
+│   ├── main.dart          # Application entry point
+│   ├── screens/           # Main application screens
+│   ├── widgets/           # Reusable UI components
+│   └── models/            # Data models
+├── assets/                # Images and graphic resources
+└── pubspec.yaml           # Dependencies and assets configuration
 
 ### 💻 Installation
 1. Clone the repository:
@@ -41,6 +42,10 @@ pubspec.yaml           # Dependencies configuration
 2. Install dependencies:
  ```bash
     flutter pub get
+
+3. Run the app:
+ ```bash
     flutter run
+
 
 
