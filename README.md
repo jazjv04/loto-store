@@ -1,6 +1,7 @@
 # 🌸 Loto Store - Flower Shop E-Commerce UI
-
-![Logo](\assets\flor_de_loto_logo.png)
+<div>
+  <img src="\assets\flor_de_loto_logo.png" width="300" alt="Logo">
+</div>
 
 A beautiful Flutter application for a fictional flower shop called "Loto Store". This university project features a responsive UI with product listings, user profiles, and elegant floral arrangements.
 
@@ -41,3 +42,4 @@ A beautiful Flutter application for a fictional flower shop called "Loto Store".
  ```bash
     flutter run
  ```
+
