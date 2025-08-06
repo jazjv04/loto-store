@@ -1,5 +1,5 @@
 # 🌸 Loto Store - Flower Shop E-Commerce UI
-<div>
+<div align="center">
   <img src="\assets\flor_de_loto_logo.png" width="300" alt="Logo">
 </div>
 
@@ -42,4 +42,5 @@ A beautiful Flutter application for a fictional flower shop called "Loto Store".
  ```bash
     flutter run
  ```
+
 
