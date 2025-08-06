@@ -13,7 +13,6 @@ A beautiful Flutter application for a fictional flower shop called "Loto Store".
 ## ✨ Features
 - Product catalog with ratings and prices
 - User profile section
-- Responsive design for multiple platforms
 - Clean and intuitive interface
 
 ## 🛠️ Technologies
@@ -42,5 +41,6 @@ A beautiful Flutter application for a fictional flower shop called "Loto Store".
  ```bash
     flutter run
  ```
+
 
 
